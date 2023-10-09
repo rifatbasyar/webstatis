@@ -1,0 +1,25 @@
+* {margin: 0%;
+padding: 0%;
+}
+img {width: 60%;
+image-resolution: 100%;
+display: flex;
+margin: auto;
+}
+body {background-image: url(..css/tugas4.html);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {color: aquamarine;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: center;
+margin: 40px 30px;
+}
+h2 {color: aquamarine;
+font-size: 25px;
+font-weight: bold;
+text-align: center;
+border-style: dotted;
+border-width: 5px;
+border-color: aquamarine;
+}
